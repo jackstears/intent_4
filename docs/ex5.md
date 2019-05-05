@@ -1,26 +1,25 @@
 # 实验五_Intent 
 
-## 一、代码地址
+## 一、截图
+当前APP界面
+
+<img src="img/ex5_0.jpg" />
+
+
+自定义简易浏览器
+
+<img src="img/ex5_1.jpg" />
+
+
+## 二、代码
+
+代码地址
 
 代码地址：https://github.com/jackstears/intent_5/blob/master/app/src/main/java/com/example/myfirstapp/ex5/LaunchBrowser.java
 
 
 
 相应xml文件地址：https://github.com/jackstears/intent_5/blob/master/app/src/main/res/layout/ex5_launch_browser.xml
-
-
-
-## 二、简介与截图
-
-### 1、当前APP界面
-
-<img src="img/ex5_0.jpg" />
-
-
-
-### 2、自定义简易浏览器
-
-<img src="img/ex5_1.jpg" />
 
 
 
@@ -125,3 +124,6 @@ app/src/main/AndroidManifest.xml：
 
 </manifest>
 ```
+
+
+

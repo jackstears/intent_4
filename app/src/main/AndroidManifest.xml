@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myfirstapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ex5.LaunchBrowser"></activity>
+        <activity android:name=".ex4.SettingsActivity" />
+        <activity android:name=".test0actionmodesample.ActionModeSampleMain" />
+        <activity android:name=".ex3.MenuSample" />
+        <activity android:name=".ex3.AlertDialogSample" />
+        <activity android:name=".ex3.ListViewSample" />
+        <activity android:name=".Main2Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ex2.TableLayoutSample" />
+        <activity android:name=".ex2.ConstraintLayoutSample" />
+        <activity android:name=".ex2.LinearLayoutSample" />
+        <activity android:name=".ex1.ActivityTwo" />
+        <activity android:name=".ex1.UnderstandTheActivityLifecycle" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

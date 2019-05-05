@@ -2,11 +2,11 @@
 
 ## 一、代码地址
 
-代码地址：https://github.com/xkfx/android-hello-world/blob/master/app/src/main/java/com/example/myfirstapp/ex5/LaunchBrowser.java
+代码地址：https://github.com/jackstears/intent_5/blob/master/app/src/main/java/com/example/myfirstapp/ex5/LaunchBrowser.java
 
 
 
-相应xml文件地址：https://github.com/xkfx/android-hello-world/blob/master/app/src/main/res/layout/ex5_launch_browser.xml
+相应xml文件地址：https://github.com/jackstears/intent_5/blob/master/app/src/main/res/layout/ex5_launch_browser.xml
 
 
 
